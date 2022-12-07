@@ -10,5 +10,5 @@ _What is this?_
 
 **And That?**
 
-__We **can** combine them__
+*We **can** combine them*
 
